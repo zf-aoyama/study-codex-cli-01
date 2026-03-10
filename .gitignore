@@ -20,3 +20,11 @@ venv/
 
 # OS
 .DS_Store
+
+# uv
+.venv/
+uv.lock
+pyproject.toml
+
+# Program
+main.py
