@@ -21,17 +21,9 @@ venv/
 # OS
 .DS_Store
 
-# uv
-.venv/
-uv.lock
-pyproject.toml
-
-# Program
-main.py
-app.py
-
 # 学習用に除外
-01cli/README.md
-02streamlit/README.md
-03future-api/README.md
+01cli/answer
+02streamlit/answer
+03future-api/answer
+03future-api/answer
 03future-api/sample-prompt03.md
